@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+
+.docker/db
+
+*.exe
+*.tmp
+*.log
+*.env
+
+go.sum
